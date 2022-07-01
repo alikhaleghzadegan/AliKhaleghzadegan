@@ -6,8 +6,8 @@
 - 🌱 I have experience with different technologies like Java, JavaScript, HTML, CSS, React, etc.
 - 👯 Currently I am attending the full-stack web development course at <a href="https://www.wbscodingschool.com/">WBS Coding School</a>.
 - 💬 I really love to code and teach others to write high quality code.
-- ⚡ I love photography 
-- 📫 ali_1367@live.com
+- ⚡ I love photography and I love to walk in nature.
+- 📫 please contact me via ali_1367@live.com
 
 
 ### My Badge in Codewars
