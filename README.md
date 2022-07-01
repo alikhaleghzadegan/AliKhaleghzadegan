@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[logo]: https://www.codewars.com/users/ali_1367@live.com/badges/micro "Codewars Profile Badges"
-https://www.codewars.com/users/ali_1367@live.com/badges/large
+<img src="https://www.codewars.com/users/ali_1367@live.com/badges/large" />
