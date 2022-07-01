@@ -1,8 +1,6 @@
 ### Hi there 👋
-### I'm Ali, nice to meet you, I'm a software engineer!
----
-
-Here are some ideas to get you started:
+### I'm Ali, it's really nice to meet you!
+<hr/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
