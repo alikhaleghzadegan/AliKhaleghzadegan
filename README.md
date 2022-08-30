@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Ali, it's really nice to meet you!
 
-- 😄 I am a full-stack web developer and I live in Cologne, Germany.
+- 😄 I am a full-stack web developer and I live in Hürth-Efferen which is near Cologne in Germany.
 - 🔭 I have previously worked as a Java software engineer for three years in my country!
 - 🌱 I have experience with different technologies like Java, JavaScript, HTML, CSS, React, etc.
 - 👯 Currently I am attending the full-stack web development course at <a href="https://www.wbscodingschool.com/">WBS Coding School</a>.
